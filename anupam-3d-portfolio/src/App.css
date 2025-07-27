@@ -1,0 +1,13 @@
+/* App.css */
+@import "tailwindcss";
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: #0f0f0f;
+  scroll-behavior: smooth;
+}
+
+.app-wrapper {
+  width: 100%;
+  overflow-x: hidden;
+}
